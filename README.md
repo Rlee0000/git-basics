@@ -1,2 +1,2 @@
 # git-basics
-12.1 | Exercise: Git Basics
+12.1|Exercise: Git Basics
